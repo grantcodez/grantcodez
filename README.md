@@ -13,7 +13,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-[email]: grantgregory7292@gmail.com
+[email]: grantgregory7292@gmail.com <br>
 [linkedin]: https://linkedin.com/in/grantgregory7292](https://www.linkedin.com/in/grant-gregory-748b1527b/
 
 <!--
