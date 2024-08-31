@@ -8,7 +8,7 @@
   -[Pet website]: (https://github.com/grantcodez/javascript-project) <br>
   -[Pig game]: (https://github.com/grantcodez/pig-game)
 - <b>PowerShell/ Active_Directory</b>
-  - [Active Directory Home Lab]:(https://github.com/grantcodez/Active_Directory_Practice)
+  -[Active Directory Home Lab]:(https://github.com/grantcodez/Active_Directory_Practice)
 
 
 
