@@ -4,11 +4,11 @@
 
 - <b>Javascript Practice</b>
                          <br>
-  -[Guess Random Number] <br>
-  -[Modal popup pratice] <br>
-  -[pet website]
+  -[Guess random number]: (https://github.com/grantcodez/guess-number-game) <br>
+  -[Pet website]: (https://github.com/grantcodez/javascript-project) <br>
+  -[Pig game]: (https://github.com/grantcodez/pig-game)
 - <b>PowerShell/ Active_Directory</b>
-  - [Active Directory Home Lab]
+  - [Active Directory Home Lab]:(https://github.com/grantcodez/Active_Directory_Practice)
 
 
 
