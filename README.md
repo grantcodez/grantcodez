@@ -5,7 +5,7 @@
 - <b>Javascript Practice</b>
                          <br>
   -[Guess random number]: (https://github.com/grantcodez/guess-number-game) <br>
-  -[Pet website]: (https://github.com/grantcodez/javascript-project) <br>
+  -[Pet website]: (https://github.com/grantcodez/Pet-website) <br>
   -[Pig game]: (https://github.com/grantcodez/pig-game)
 - <b>PowerShell/ Active_Directory</b>
   -[Active Directory Home Lab]:(https://github.com/grantcodez/Active_Directory_Practice)
