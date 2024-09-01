@@ -15,7 +15,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 [email]: grantgregory7292@gmail.com <br>
-[linkedin]: https://linkedin.com/in/grantgregory7292](https://www.linkedin.com/in/grant-gregory-748b1527b/
+[linkedin]: www.linkedin.com/in/grant-gregory-748b1527b
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
