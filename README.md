@@ -11,7 +11,9 @@
   <br>
   -[Active Directory Home Lab]:(https://github.com/grantcodez/Active_Directory_Practice)
 
-
+- <b>Java Practice</b>
+                  <br>
+-[Rock,Paper,Scissors Game]: (https://github.com/grantcodez/RockPaperScissorsGame)
 
 <h2> 🤳 Connect with me:</h2>
 [email]: grantgregory7292@gmail.com <br>
